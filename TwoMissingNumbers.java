@@ -6,6 +6,8 @@
  * Given an unsorted array of numbers from 1 to N with two numbers missing
  * returns the two numbers that are missing.
  * 
+ * Execution: javac TwoMissingNumbers.java && java TwoMissingNumbers
+ * 
  * For more details, check out http://www.byte-by-byte.com/twomissingnumbers/
  */
 import java.util.Arrays;
