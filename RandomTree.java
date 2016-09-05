@@ -8,7 +8,7 @@
  * 
  * Execution: javac RandomTree.java && java RandomTree
  * 
- * For more details, check out http://www.byte-by-byte.com/randomtree/
+ * For more details, check out http://www.byte-by-byte.com/randombinary/
  */
 import java.util.Random;
 
