@@ -1,3 +1,16 @@
+/*
+ * Title: Consecutive Numbers
+ * Author: Sam Gavis-Hughson
+ * Date: 9/25/2016
+ * 
+ * Given an unsorted array of numbers, find the length of the longest sequence
+ * of consecutive numbers in the array
+ * 
+ * Execution: javac ConsecutiveNumbers.java && java ConsecutiveNumbers
+ * 
+ * For more details, check out http://www.byte-by-byte.com/consecutivenumbers/
+ */
+
 import java.util.HashSet;
 
 public class ConsecutiveNumbers {
