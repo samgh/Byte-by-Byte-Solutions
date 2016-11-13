@@ -1,10 +1,9 @@
 /*
  * Title: Linked List Cycle
  * Author: Sam Gavis-Hughson
- * Date: 10/16/2016
+ * Date: 11/3/2016
  * 
- * Given a list of packages and their dependencies, determine a valid build
- * order.
+ * Given a linked list, determine whether it contains any cycles.
  * 
  * Execution: javac LinkedListCycle.java && java LinkedListCycle
  * 
