@@ -7,7 +7,7 @@
  * the maximum value you can generate from items where the sum of the weights is
  * less than the max.
  * 
- * Execution: javac 01Knapsack.java && java 01Knapsack
+ * Execution: javac Knapsack.java && java Knapsack
  * 
  * For more details, check out http://www.byte-by-byte.com/01knapsack/
  */
