@@ -16,22 +16,25 @@ public class MatrixProduct {
     public static int matrixProduct(int[][] matrix) {
         if (matrix.length == 0 || matrix[0].length == 0) return 0;
         
-        // We need both a min cache and a max cache since we can have negatives
+        // Create cache of min and max product to a given cell
         int[][] maxCache = new int[matrix.length][matrix[0].length];
         int[][] minCache = new int[matrix.length][matrix[0].length];
         
-        // For each cell, look above and look left to find the min and max 
-        // product up to and including that cell
+        // Fill caches. We start at the top  left and iteratively find the greatest
+        // at smallest path to each subsequent cell by considering the greatest and
+        // smallest path to the cells above and to the left of the current cell
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[0].length; j++) {
                 int maxVal = Integer.MIN_VALUE;
                 int minVal = Integer.MAX_VALUE;
+                
+                // If you're in the top left corner, just copy to cache
                 if (i == 0 && j == 0) {
                     maxVal = matrix[i][j];
                     minVal = matrix[i][j];
                 }
                 
-                // If not in the first row, look at the row above
+                // If we're not at the top, consider the value above
                 if (i > 0) {
                     int tempMax = Math.max(matrix[i][j] * maxCache[i-1][j], matrix[i][j] * minCache[i-1][j]);
                     maxVal = Math.max(tempMax, maxVal);
@@ -39,7 +42,7 @@ public class MatrixProduct {
                     minVal = Math.min(tempMin, minVal);
                 }
                 
-                // If not in the first column, look at the column above
+                // If we're not on the left, consider the value to the left
                 if (j > 0) {
                     int tempMax = Math.max(matrix[i][j] * maxCache[i][j-1], matrix[i][j] * minCache[i][j-1]);
                     maxVal = Math.max(tempMax, maxVal);
@@ -51,6 +54,7 @@ public class MatrixProduct {
             }
         }
         
+        // Return the max value at the bottom right
         return maxCache[maxCache.length - 1][maxCache[0].length - 1];
     }
     
