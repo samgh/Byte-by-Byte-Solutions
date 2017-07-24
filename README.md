@@ -5,7 +5,7 @@
 I would love to compile solutions to all of the problems here, as well as offer solutions in different languages. Currently we only have Java solutions but Python, C, or any other languages would be most welcome. Just create a pull request with your changes. And make sure your code includes at least a few tests!
 
 ### Index of Questions
-* [Priority Queue](http://www.byte-by-byte.com/priorityqueue/)  
+* [Priority Queue](http://www.byte-by-byte.com/priorityqueue/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/PriorityQueue.java))  
 Implement a Priority Queue.
 * [0-1 Knapsack](http://www.byte-by-byte.com/01knapsack/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/Knapsack.java))  
 Given a list of items with values and weights, as well as a max weight, find the maximum value you can generate from items where the sum of the weights is less than the max.
