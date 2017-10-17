@@ -29,9 +29,9 @@ Given a boolean matrix, update it so that if any cell is true, all the cells in 
 Implement a binary tree with a method getRandomNode() that returns a random node.
 * [Two Missing Numbers](http://www.byte-by-byte.com/twomissingnumbers/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/TwoMissingNumbers.java))  
 Given an array containing all the numbers from 1 to n except two, find the two missing numbers.
-* [Shortest Path](http://www.byte-by-byte.com/shortestpath/)  ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/ShortestPath.java))  
+* [Shortest Path](http://www.byte-by-byte.com/shortestpath/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/ShortestPath.java))  
 Given a directed graph, find the shortest path between two nodes if one exists.
-* [Square Submatrix](http://www.byte-by-byte.com/squaresubmatrix/)  
+* [Square Submatrix](http://www.byte-by-byte.com/squaresubmatrix/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/SquareSubmatrix.java))  
 Given a 2D array of 1s and 0s, find the largest square subarray of all 1s.
 * [Random Linked List](http://www.byte-by-byte.com/randomlinkedlist/)  
 Given a linked list where each node has two pointers, one to the next node and one to a random node in the list, clone the linked list.

@@ -40,7 +40,8 @@ public class SquareSubmatrix {
         
         // Find the size of the right, bottom, and bottom right submatrices and
         // add 1 to the minimum of those 3 to get the result
-        return 1 + Math.min(Math.min(naiveSquareSubmatrix(arr, i+1, j), naiveSquareSubmatrix(arr, i, j+1)),
+        return 1 + Math.min(Math.min(naiveSquareSubmatrix(arr, i+1, j), 
+                                     naiveSquareSubmatrix(arr, i, j+1)),
                             naiveSquareSubmatrix(arr, i+1, j+1));
     }
     
@@ -69,8 +70,9 @@ public class SquareSubmatrix {
         // If the value is set in the cache return it. Otherwise compute and 
         // save to cache
         if (cache[i][j] > 0) return cache[i][j];
-        cache[i][j] = 1 + Math.min(Math.min(topDownSquareSubmatrix(arr, i+1, j, cache), topDownSquareSubmatrix(arr, i, j+1, cache)),
-                                                        topDownSquareSubmatrix(arr, i+1, j+1, cache));
+        cache[i][j] = 1 + Math.min(Math.min(topDownSquareSubmatrix(arr, i+1, j, cache), 
+                                            topDownSquareSubmatrix(arr, i, j+1, cache)),
+                                   topDownSquareSubmatrix(arr, i+1, j+1, cache));
         return cache[i][j];
     }
     
