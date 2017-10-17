@@ -29,7 +29,7 @@ Given a boolean matrix, update it so that if any cell is true, all the cells in 
 Implement a binary tree with a method getRandomNode() that returns a random node.
 * [Two Missing Numbers](http://www.byte-by-byte.com/twomissingnumbers/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/TwoMissingNumbers.java))  
 Given an array containing all the numbers from 1 to n except two, find the two missing numbers.
-* [Shortest Path](http://www.byte-by-byte.com/shortestpath/)  
+* [Shortest Path](http://www.byte-by-byte.com/shortestpath/)  ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/ShortestPath.java))  
 Given a directed graph, find the shortest path between two nodes if one exists.
 * [Square Submatrix](http://www.byte-by-byte.com/squaresubmatrix/)  
 Given a 2D array of 1s and 0s, find the largest square subarray of all 1s.
