@@ -5,6 +5,8 @@
 I would love to compile solutions to all of the problems here, as well as offer solutions in different languages. Currently we only have Java solutions but Python, C, or any other languages would be most welcome. Just create a pull request with your changes. And make sure your code includes at least a few tests!
 
 ### Index of Questions
+* [Median of Arrays](http://www.byte-by-byte.com/median/)  
+Find the median of two sorted arrays.
 * [Priority Queue](http://www.byte-by-byte.com/priorityqueue/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/PriorityQueue.java))  
 Implement a Priority Queue.
 * [0-1 Knapsack](http://www.byte-by-byte.com/01knapsack/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/Knapsack.java))  
@@ -33,7 +35,7 @@ Given an array containing all the numbers from 1 to n except two, find the two m
 Given a directed graph, find the shortest path between two nodes if one exists.
 * [Square Submatrix](http://www.byte-by-byte.com/squaresubmatrix/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/SquareSubmatrix.java))  
 Given a 2D array of 1s and 0s, find the largest square subarray of all 1s.
-* [Random Linked List](http://www.byte-by-byte.com/randomlinkedlist/)  
+* [Random Linked List](http://www.byte-by-byte.com/randomlinkedlist/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/RandomLinkedList.java))  
 Given a linked list where each node has two pointers, one to the next node and one to a random node in the list, clone the linked list.
 * [Big Int Mod](http://www.byte-by-byte.com/bigintmod/)  
 Given a list of bytes `a`, each representing one byte of a larger integer (ie. `{0x12, 0x34, 0x56, 0x78}` represents the integer `0x12345678`), and an integer `b`, find `a % b`.
