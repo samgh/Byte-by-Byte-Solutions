@@ -70,7 +70,7 @@ public class LinkedListCycle {
         assert hasCycle(n) == true:
             "Marking visited: Odd length cycle";
             
-        // Test marking visited implementation
+       // Test Floyd's algorithm implementation
         assert hasCycleFloyd(null) == false:
             "Floyd: Null input";
         n = new Node();
