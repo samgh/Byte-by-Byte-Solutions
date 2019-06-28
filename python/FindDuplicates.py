@@ -1,3 +1,14 @@
+"""
+ Title: Find Duplicates
+
+Given an array of integers where each value 1 <= x <= len(array), write a
+function that finds all the duplicates in the array.
+
+Execution: python FindDuplicates.py
+
+For more details, check out http://www.byte-by-byte.com/findduplicates/
+
+"""
 import unittest
 
 
