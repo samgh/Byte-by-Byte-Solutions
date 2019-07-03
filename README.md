@@ -6,107 +6,85 @@ I would love to compile solutions to all of the problems here, as well as offer 
 
 ### Index of Questions
 * [Median of Arrays](http://www.byte-by-byte.com/median/)  
-
 Find the median of two sorted arrays.
 
 * [Priority Queue](http://www.byte-by-byte.com/priorityqueue/) 
 ([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/PriorityQueue.java)) 
 ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/PriorityQueue.py))
-
 Implement a Priority Queue.
 
 * [0-1 Knapsack](http://www.byte-by-byte.com/01knapsack/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/Knapsack.java))  
-
 Given a list of items with values and weights, as well as a max weight, find the maximum value you can generate from items where the sum of the weights is less than the max.
 
 * [Matrix Product](http://www.byte-by-byte.com/matrixproduct/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/MatrixProduct.java))  
-
 Given a matrix, find the path from top left to bottom right with the greatest product by moving only down and right.
 
 * [Find Duplicates](http://www.byte-by-byte.com/findduplicates/) 
 ([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/FindDuplicates.java))  
 ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/FindDuplicates.py))  
-
 Given an array of integers where each value `1 <= x <= len(array)`, write a function that finds all the duplicates in the array.
 
 * [Integer to Roman Numeral](http://www.byte-by-byte.com/inttoroman/) 
 ([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/IntToRoman.java))  
 ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/pythopython/IntToRoman.py))  
-
 Given an integer, write a function to return its roman numeral representation.
 
 * [Autocomplete](http://www.byte-by-byte.com/autocomplete/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/Autocomplete.java))  
-
 Write an autocomplete class that returns all dictionary words with a given prefix.
 
 * [Linked List Cycle](http://www.byte-by-byte.com/listcycles/) 
 ([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/LinkedListCycle.java))  
 ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/LinkedListCycle.py))  
-
 Given a linked list, determine whether it contains a cycle.
 
 * [Build Order](http://www.byte-by-byte.com/buildorder/) 
 ([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/BuildOrder.java))  
 ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/BuildOrder.py))  
-
 Given a list of packages that need to be built and the dependencies for each package, determine a valid order in which to build the packages.
 
 * [Consecutive Array](http://www.byte-by-byte.com/consecutivearray/) 
 ([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/ConsecutiveArray.java))  
 ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/ConsecutiveArray.py))  
-
 Given an unsorted array, find the length of the longest sequence of consecutive numbers in the array.
 
 * [Zero Matrix](http://www.byte-by-byte.com/zeromatrix/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/ZeroMatrix.java))  
-
 Given a boolean matrix, update it so that if any cell is true, all the cells in that row and column are true.
 
 * [Random Binary Tree](http://www.byte-by-byte.com/randombinarytree/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/RandomTree.java))  
-
 Implement a binary tree with a method getRandomNode() that returns a random node.
 
 * [Two Missing Numbers](http://www.byte-by-byte.com/twomissingnumbers/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/TwoMissingNumbers.java))  
-
 Given an array containing all the numbers from 1 to n except two, find the two missing numbers.
 
 * [Shortest Path](http://www.byte-by-byte.com/shortestpath/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/ShortestPath.java))  
-
 Given a directed graph, find the shortest path between two nodes if one exists.
 
 * [Square Submatrix](http://www.byte-by-byte.com/squaresubmatrix/) 
 ([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/SquareSubmatrix.java))  
 ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/SquareSubmatrix.py))  
-
 Given a 2D array of 1s and 0s, find the largest square subarray of all 1s.
 
 * [Random Linked List](http://www.byte-by-byte.com/randomlinkedlist/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/RandomLinkedList.java))  
-
 Given a linked list where each node has two pointers, one to the next node and one to a random node in the list, clone the linked list.
 
 * [Big Int Mod](http://www.byte-by-byte.com/bigintmod/) 
 ([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/BigIntMod.java))  
 ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/BigIntMod.py))  
-
 Given a list of bytes `a`, each representing one byte of a larger integer (ie. `{0x12, 0x34, 0x56, 0x78}` represents the integer `0x12345678`), and an integer `b`, find `a % b`.
 
 * [Merge K Arrays](http://www.byte-by-byte.com/mergekarrays/)  
-
 Given k sorted arrays, merge them into a single sorted array.
 
 * [Dedup Linked List](http://www.byte-by-byte.com/deduplinkedlist/)  
-
 Given an unsorted linked list, write a function to remove all the duplicates.
 
 * [Lowest Common Ancestor](http://www.byte-by-byte.com/lowestcommonancestor/)  
-
 Given two nodes in a binary tree, write a function to find the lowest common ancestor.
 
 * [String Deletion](http://www.byte-by-byte.com/stringdeletion/)  
-
 Given a string and a dictionary HashSet, write a function to determine the minimum number of characters to delete to make a word.
 
 * [Sum](http://www.byte-by-byte.com/sum/)  
-
 Given two integers, write a function to sum the numbers without using any arithmetic operators.
 
 * [Reverse Stack](http://www.byte-by-byte.com/reversestack/)  
