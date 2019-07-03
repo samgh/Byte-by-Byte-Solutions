@@ -10,7 +10,7 @@ Find the median of two sorted arrays.
 
 * [Priority Queue](http://www.byte-by-byte.com/priorityqueue/) 
 ([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/PriorityQueue.java)) 
-([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/PriorityQueue.py)
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/PriorityQueue.py))
 Implement a Priority Queue.
 
 * [0-1 Knapsack](http://www.byte-by-byte.com/01knapsack/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/Knapsack.java))  
