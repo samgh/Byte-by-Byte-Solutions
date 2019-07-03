@@ -15,6 +15,7 @@ import unittest
 numerals = ["M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"]
 values = [1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1]
 
+
 def int_to_roman(value):
     if value > 3999 or value < 1:
         raise ValueError(f"Value {value} is above 3999 or below 1.")
@@ -29,7 +30,7 @@ def int_to_roman(value):
     return ''.join(numeral)
 
 
-class TestBigIntMod(unittest.TestCase):
+class TestIntToRoman(unittest.TestCase):
     def test_I(self):
         self.assertEqual(int_to_roman(1), "I")
         print("1 converts to I")
