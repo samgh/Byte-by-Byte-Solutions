@@ -13,7 +13,9 @@ Find the median of two sorted arrays.
 ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/PriorityQueue.py))
 Implement a Priority Queue.
 
-* [0-1 Knapsack](http://www.byte-by-byte.com/01knapsack/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/Knapsack.java))  
+* [0-1 Knapsack](http://www.byte-by-byte.com/01knapsack/) 
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/Knapsack.java))  
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/Knapsack.py))  
 Given a list of items with values and weights, as well as a max weight, find the maximum value you can generate from items where the sum of the weights is less than the max.
 
 * [Matrix Product](http://www.byte-by-byte.com/matrixproduct/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/MatrixProduct.java))  
