@@ -11,6 +11,7 @@ For more details, check out http://www.byte-by-byte.com/matrixproduct/
 """
 import unittest
 
+
 def matrix_product(mat):
     """
     Bottom-up dynamic programming solution.

@@ -188,5 +188,8 @@ Given an input amount of change `x`, write a function to determine the minimum n
 Given a linked list, and an input n, write a function that returns the nth-to-last element of the linked list.
 
 * [FizzBuzz](http://www.byte-by-byte.com/fizzbuzz/)
+([C++](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/cpp/FizzBuzz.cpp))
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/FizzBuzz.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/FizzBuzz.py))<br>
 Output numbers from `1` to `x`. If the number is divisible by `3`, replace it with `“Fizz”`. If it is divisible by `5`, replace it with `“Buzz”`. If it is divisible by `3` and `5` replace it with `“FizzBuzz”`.
 
