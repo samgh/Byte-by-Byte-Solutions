@@ -13,40 +13,41 @@ Find the median of two sorted arrays.
 ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/PriorityQueue.py))<br>
 Implement a Priority Queue.
 
-* [0-1 Knapsack](http://www.byte-by-byte.com/01knapsack/) 
-([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/Knapsack.java))  
-([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/Knapsack.py))  
+* [0-1 Knapsack](http://www.byte-by-byte.com/01knapsack/)
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/Knapsack.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/Knapsack.py))<br>
 Given a list of items with values and weights, as well as a max weight, find the maximum value you can generate from items where the sum of the weights is less than the max.
 
-* [Matrix Product](http://www.byte-by-byte.com/matrixproduct/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/MatrixProduct.java))  
+* [Matrix Product](http://www.byte-by-byte.com/matrixproduct/)
+([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/MatrixProduct.java))<br>
 Given a matrix, find the path from top left to bottom right with the greatest product by moving only down and right.
 
-* [Find Duplicates](http://www.byte-by-byte.com/findduplicates/) 
-([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/FindDuplicates.java))  
-([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/FindDuplicates.py))  
+* [Find Duplicates](http://www.byte-by-byte.com/findduplicates/)
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/FindDuplicates.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/FindDuplicates.py))<br>
 Given an array of integers where each value `1 <= x <= len(array)`, write a function that finds all the duplicates in the array.
 
-* [Integer to Roman Numeral](http://www.byte-by-byte.com/inttoroman/) 
-([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/IntToRoman.java))  
-([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/pythopython/IntToRoman.py))  
+* [Integer to Roman Numeral](http://www.byte-by-byte.com/inttoroman/)
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/IntToRoman.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/pythopython/IntToRoman.py))<br>
 Given an integer, write a function to return its roman numeral representation.
 
 * [Autocomplete](http://www.byte-by-byte.com/autocomplete/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/Autocomplete.java))  
 Write an autocomplete class that returns all dictionary words with a given prefix.
 
-* [Linked List Cycle](http://www.byte-by-byte.com/listcycles/) 
-([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/LinkedListCycle.java))  
-([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/LinkedListCycle.py))  
+* [Linked List Cycle](http://www.byte-by-byte.com/listcycles/)
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/LinkedListCycle.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/LinkedListCycle.py))<br>
 Given a linked list, determine whether it contains a cycle.
 
-* [Build Order](http://www.byte-by-byte.com/buildorder/) 
-([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/BuildOrder.java))  
-([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/BuildOrder.py))  
+* [Build Order](http://www.byte-by-byte.com/buildorder/)
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/BuildOrder.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/BuildOrder.py))<br>
 Given a list of packages that need to be built and the dependencies for each package, determine a valid order in which to build the packages.
 
-* [Consecutive Array](http://www.byte-by-byte.com/consecutivearray/) 
-([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/ConsecutiveArray.java))  
-([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/ConsecutiveArray.py))  
+* [Consecutive Array](http://www.byte-by-byte.com/consecutivearray/)
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/ConsecutiveArray.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/ConsecutiveArray.py))<br>
 Given an unsorted array, find the length of the longest sequence of consecutive numbers in the array.
 
 * [Zero Matrix](http://www.byte-by-byte.com/zeromatrix/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/ZeroMatrix.java))  
@@ -55,25 +56,25 @@ Given a boolean matrix, update it so that if any cell is true, all the cells in 
 * [Random Binary Tree](http://www.byte-by-byte.com/randombinarytree/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/RandomTree.java))  
 Implement a binary tree with a method getRandomNode() that returns a random node.
 
-* [Two Missing Numbers](http://www.byte-by-byte.com/twomissingnumbers/) 
-([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/TwoMissingNumbers.java))  
-([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/TwoMissingNumbers.py))  
+* [Two Missing Numbers](http://www.byte-by-byte.com/twomissingnumbers/)
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/TwoMissingNumbers.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/TwoMissingNumbers.py))<br>
 Given an array containing all the numbers from 1 to n except two, find the two missing numbers.
 
 * [Shortest Path](http://www.byte-by-byte.com/shortestpath/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/ShortestPath.java))  
 Given a directed graph, find the shortest path between two nodes if one exists.
 
-* [Square Submatrix](http://www.byte-by-byte.com/squaresubmatrix/) 
-([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/SquareSubmatrix.java))  
-([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/SquareSubmatrix.py))  
+* [Square Submatrix](http://www.byte-by-byte.com/squaresubmatrix/)
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/SquareSubmatrix.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/SquareSubmatrix.py))<br>
 Given a 2D array of 1s and 0s, find the largest square subarray of all 1s.
 
 * [Random Linked List](http://www.byte-by-byte.com/randomlinkedlist/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/RandomLinkedList.java))  
 Given a linked list where each node has two pointers, one to the next node and one to a random node in the list, clone the linked list.
 
-* [Big Int Mod](http://www.byte-by-byte.com/bigintmod/) 
-([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/BigIntMod.java))  
-([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/BigIntMod.py))  
+* [Big Int Mod](http://www.byte-by-byte.com/bigintmod/)
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/BigIntMod.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/BigIntMod.py))<br>
 Given a list of bytes `a`, each representing one byte of a larger integer (ie. `{0x12, 0x34, 0x56, 0x78}` represents the integer `0x12345678`), and an integer `b`, find `a % b`.
 
 * [Merge K Arrays](http://www.byte-by-byte.com/mergekarrays/)  
@@ -181,11 +182,11 @@ Given an integer, write a function to compute the number of ones in the binary r
 * [Smallest Change](http://www.byte-by-byte.com/smallestchange/)  
 Given an input amount of change `x`, write a function to determine the minimum number of coins required to make that amount of change.
 
-* [Nth-to-last Element](http://www.byte-by-byte.com/nthtolastelement) 
-([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/NthToLast.java))  
-([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/NthToLast.py))  
+* [Nth-to-last Element](http://www.byte-by-byte.com/nthtolastelement)
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/NthToLast.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/NthToLast.py))<br>
 Given a linked list, and an input n, write a function that returns the nth-to-last element of the linked list.
 
-* [FizzBuzz](http://www.byte-by-byte.com/fizzbuzz/)  
+* [FizzBuzz](http://www.byte-by-byte.com/fizzbuzz/)
 Output numbers from `1` to `x`. If the number is divisible by `3`, replace it with `“Fizz”`. If it is divisible by `5`, replace it with `“Buzz”`. If it is divisible by `3` and `5` replace it with `“FizzBuzz”`.
 
