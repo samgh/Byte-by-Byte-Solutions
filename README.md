@@ -8,7 +8,9 @@ I would love to compile solutions to all of the problems here, as well as offer 
 * [Median of Arrays](http://www.byte-by-byte.com/median/)  
 Find the median of two sorted arrays.
 
-* [Priority Queue](http://www.byte-by-byte.com/priorityqueue/) ([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/PriorityQueue.java)) ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/PriorityQueue.py))
+* [Priority Queue](http://www.byte-by-byte.com/priorityqueue/)
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/PriorityQueue.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/PriorityQueue.py))<br>
 Implement a Priority Queue.
 
 * [0-1 Knapsack](http://www.byte-by-byte.com/01knapsack/) 
