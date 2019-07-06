@@ -55,7 +55,9 @@ Given a boolean matrix, update it so that if any cell is true, all the cells in 
 * [Random Binary Tree](http://www.byte-by-byte.com/randombinarytree/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/RandomTree.java))  
 Implement a binary tree with a method getRandomNode() that returns a random node.
 
-* [Two Missing Numbers](http://www.byte-by-byte.com/twomissingnumbers/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/TwoMissingNumbers.java))  
+* [Two Missing Numbers](http://www.byte-by-byte.com/twomissingnumbers/) 
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/TwoMissingNumbers.java))  
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/TwoMissingNumbers.py))  
 Given an array containing all the numbers from 1 to n except two, find the two missing numbers.
 
 * [Shortest Path](http://www.byte-by-byte.com/shortestpath/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/ShortestPath.java))  
