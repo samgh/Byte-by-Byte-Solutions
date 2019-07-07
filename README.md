@@ -177,6 +177,8 @@ Given a binary tree, write a function to test if the tree is a binary search tre
 Implement a LIFO stack that has a `push()`, `pop()`, and `max()` function, where `max()` returns the maximum value in the stack. All of these functions should run in `O(1)` time.
 
 * [Number of Ones in Binary](http://www.byte-by-byte.com/onesinbinary/)  
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/OnesInBinary.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/OnesInBinary.py))<br>
 Given an integer, write a function to compute the number of ones in the binary representation of the number.
 
 * [Smallest Change](http://www.byte-by-byte.com/smallestchange/)  
