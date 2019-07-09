@@ -86,7 +86,9 @@ Given an unsorted linked list, write a function to remove all the duplicates.
 * [Lowest Common Ancestor](http://www.byte-by-byte.com/lowestcommonancestor/)  
 Given two nodes in a binary tree, write a function to find the lowest common ancestor.
 
-* [String Deletion](http://www.byte-by-byte.com/stringdeletion/)  
+* [String Deletion](http://www.byte-by-byte.com/stringdeletion/)
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/StringDeletion.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/StringDeletion.py))<br>
 Given a string and a dictionary HashSet, write a function to determine the minimum number of characters to delete to make a word.
 
 * [Sum](http://www.byte-by-byte.com/sum/)  
@@ -169,7 +171,7 @@ Given a string, write a function to compress it by shortening every sequence of 
 
 * [Anagrams](http://www.byte-by-byte.com/anagrams/)
 ([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/Anagrams.java))
-([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/Anagrams.py))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/Anagrams.py))<br>
 Given two strings, write a function to determine whether they are anagrams.
 
 * [Binary Search Tree Verification](http://www.byte-by-byte.com/binarysearchtree/)  
