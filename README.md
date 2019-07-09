@@ -167,7 +167,7 @@ Given a list of strings, write a function to get the kth most frequently occurri
 * [String Compression](http://www.byte-by-byte.com/stringcompression/)  
 Given a string, write a function to compress it by shortening every sequence of the same character to that character followed by the number of repetitions. If the compressed string is longer than the original, you should return the original string.
 
-* [Anagrams](http://www.byte-by-byte.com/anagrams/)  
+* [Anagrams](http://www.byte-by-byte.com/anagrams/)
 ([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/Anagrams.java))
 ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/Anagrams.py))
 Given two strings, write a function to determine whether they are anagrams.
@@ -178,7 +178,7 @@ Given a binary tree, write a function to test if the tree is a binary search tre
 * [Max Stack](http://www.byte-by-byte.com/maxstack/)  
 Implement a LIFO stack that has a `push()`, `pop()`, and `max()` function, where `max()` returns the maximum value in the stack. All of these functions should run in `O(1)` time.
 
-* [Number of Ones in Binary](http://www.byte-by-byte.com/onesinbinary/)  
+* [Number of Ones in Binary](http://www.byte-by-byte.com/onesinbinary/)
 ([C++](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/cpp/OnesInBinary.cpp))
 ([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/OnesInBinary.java))
 ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/OnesInBinary.py))<br>
