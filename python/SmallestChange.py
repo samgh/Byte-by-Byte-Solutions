@@ -90,5 +90,6 @@ class TestChange(unittest.TestCase):
         self.assertEqual(change_dynamic(32, coins), 4)
         print("Smallest from 32 is 4")
 
+
 if __name__ == '__main__':
     unittest.main()
