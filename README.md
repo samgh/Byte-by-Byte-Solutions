@@ -99,7 +99,10 @@ Given two integers, write a function to sum the numbers without using any arithm
 * [Reverse Stack](http://www.byte-by-byte.com/reversestack/)  
 Given a stack, reverse the items without creating any additional data structures.
 
-* [Swap Variables](http://www.byte-by-byte.com/swapvariables/)  
+* [Swap Variables](http://www.byte-by-byte.com/swapvariables/)
+([C++](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/cpp/SwapVariables.cpp))
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/SwapVariables.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/SwapVariables.py))<br>
 Given two integers, write a function that swaps them without using any temporary variables.
 
 * [Matrix Search](http://www.byte-by-byte.com/matrixsearch/)  
