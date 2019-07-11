@@ -108,7 +108,10 @@ Given two integers, write a function that swaps them without using any temporary
 * [Matrix Search](http://www.byte-by-byte.com/matrixsearch/)  
 Given an `n x m` array where all rows and columns are in sorted order, write a function to determine whether the array contains an element `x`.
 
-* [Clock Angle](http://www.byte-by-byte.com/clockangle/)  
+* [Clock Angle](http://www.byte-by-byte.com/clockangle/)
+([C++](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/cpp/ClockAngle.cpp))
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/ClockAngle.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/ClockAngle.py))<br>
 Given two integers, an hour and a minute, write a function to calculate the angle between the two hands on a clock representing that time.
 
 * [Fibonacci](http://www.byte-by-byte.com/fibonacci/)
