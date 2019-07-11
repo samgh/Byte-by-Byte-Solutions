@@ -91,7 +91,9 @@ Given two nodes in a binary tree, write a function to find the lowest common anc
 ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/StringDeletion.py))<br>
 Given a string and a dictionary HashSet, write a function to determine the minimum number of characters to delete to make a word.
 
-* [Sum](http://www.byte-by-byte.com/sum/)  
+* [Sum](http://www.byte-by-byte.com/sum/)
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/Sum.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/Sum.py))<br>
 Given two integers, write a function to sum the numbers without using any arithmetic operators.
 
 * [Reverse Stack](http://www.byte-by-byte.com/reversestack/)  
