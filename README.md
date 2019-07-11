@@ -108,7 +108,9 @@ Given an `n x m` array where all rows and columns are in sorted order, write a f
 * [Clock Angle](http://www.byte-by-byte.com/clockangle/)  
 Given two integers, an hour and a minute, write a function to calculate the angle between the two hands on a clock representing that time.
 
-* [Fibonacci](http://www.byte-by-byte.com/fibonacci/)  
+* [Fibonacci](http://www.byte-by-byte.com/fibonacci/)
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/Fibonacci.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/Fibonacci.py))<br>
 Given an integer n, write a function to compute the nth Fibonacci number.
 
 * [Tree to Doubly Linked List](http://www.byte-by-byte.com/treetolist/)  

@@ -20,16 +20,19 @@ def sum_func(a: int, b: int):
 
 
 class TestSum(unittest.TestCase):
-    def test_MMXX(self):
+    def test_1_1_2(self):
         self.assertEqual(sum_func(1, 1), 2)
         print("1 + 1 = 2")
-
+    
+    def test_10_5_15(self):
         self.assertEqual(sum_func(10, 5), 15)
         print("10 + 5 = 15")
 
+    def test_100_200_300(self):
         self.assertEqual(sum_func(100, 200), 300)
         print("100 + 200 = 300")
 
+    def test_3_2_5(self):
         self.assertEqual(sum_func(3, 2), 5)
         print("3 + 2 = 5")
 
