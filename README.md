@@ -191,7 +191,9 @@ Implement a LIFO stack that has a `push()`, `pop()`, and `max()` function, where
 ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/OnesInBinary.py))<br>
 Given an integer, write a function to compute the number of ones in the binary representation of the number.
 
-* [Smallest Change](http://www.byte-by-byte.com/smallestchange/)  
+* [Smallest Change](http://www.byte-by-byte.com/smallestchange/)
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/SmallestChange.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/SmallestChange.py))<br>
 Given an input amount of change `x`, write a function to determine the minimum number of coins required to make that amount of change.
 
 * [Nth-to-last Element](http://www.byte-by-byte.com/nthtolastelement)
