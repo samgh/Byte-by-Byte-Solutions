@@ -109,6 +109,7 @@ Given an `n x m` array where all rows and columns are in sorted order, write a f
 Given two integers, an hour and a minute, write a function to calculate the angle between the two hands on a clock representing that time.
 
 * [Fibonacci](http://www.byte-by-byte.com/fibonacci/)
+([C++](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/cpp/Fibonacci.cpp))
 ([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/Fibonacci.java))
 ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/Fibonacci.py))<br>
 Given an integer n, write a function to compute the nth Fibonacci number.
