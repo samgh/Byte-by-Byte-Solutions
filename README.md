@@ -28,6 +28,7 @@ Given a matrix, find the path from top left to bottom right with the greatest pr
 Given an array of integers where each value `1 <= x <= len(array)`, write a function that finds all the duplicates in the array.
 
 * [Integer to Roman Numeral](http://www.byte-by-byte.com/inttoroman/)
+([C++](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/cpp/IntToRoman.cpp))
 ([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/IntToRoman.java))
 ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/pythopython/IntToRoman.py))<br>
 Given an integer, write a function to return its roman numeral representation.

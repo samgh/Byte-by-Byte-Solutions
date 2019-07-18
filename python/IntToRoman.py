@@ -48,7 +48,7 @@ class TestIntToRoman(unittest.TestCase):
 
     def test_XLIX(self):
         self.assertEqual(int_to_roman(49), "XLIX")
-        print("49 convers to XLIX")
+        print("49 converts to XLIX")
 
     def test_MMXX(self):
         self.assertEqual(int_to_roman(2020), "MMXX")
