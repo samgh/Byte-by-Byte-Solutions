@@ -81,7 +81,8 @@ Given a list of bytes `a`, each representing one byte of a larger integer (ie. `
 * [Merge K Arrays](http://www.byte-by-byte.com/mergekarrays/)  
 Given k sorted arrays, merge them into a single sorted array.
 
-* [Dedup Linked List](http://www.byte-by-byte.com/deduplinkedlist/)  
+* [Dedup Linked List](http://www.byte-by-byte.com/deduplinkedlist/)
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/DedupLinkedList.py))<br>
 Given an unsorted linked list, write a function to remove all the duplicates.
 
 * [Lowest Common Ancestor](http://www.byte-by-byte.com/lowestcommonancestor/)  
