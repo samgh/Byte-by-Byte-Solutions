@@ -1,7 +1,5 @@
 /*
  * Title: Random Linked List
- * Author: Sam Gavis-Hughson
- * Date: 10/20/2017
  * 
  * Given a linked list where each node contains a pointer to the next node and
  * a pointer to a random node in the list, write a function to create a copy of

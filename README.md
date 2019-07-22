@@ -70,7 +70,8 @@ Given a directed graph, find the shortest path between two nodes if one exists.
 ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/SquareSubmatrix.py))<br>
 Given a 2D array of 1s and 0s, find the largest square subarray of all 1s.
 
-* [Random Linked List](http://www.byte-by-byte.com/randomlinkedlist/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/RandomLinkedList.java))  
+* [Random Linked List](http://www.byte-by-byte.com/randomlinkedlist/)
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/RandomLinkedList.java))<br>
 Given a linked list where each node has two pointers, one to the next node and one to a random node in the list, clone the linked list.
 
 * [Big Int Mod](http://www.byte-by-byte.com/bigintmod/)
