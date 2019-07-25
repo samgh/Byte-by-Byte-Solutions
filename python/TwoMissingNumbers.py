@@ -1,4 +1,14 @@
-# /usr/bin/python2.7
+"""
+    Title: Two missing
+
+    Given an array containing all the numbers from 1 to n except two, 
+    find the two missing numbers.
+
+   Execution: python TwoMissing.py
+
+   For more details, check out http://www.byte-by-byte.com/twomissing
+"""
+
 
 import unittest
 

@@ -59,6 +59,7 @@ Given a boolean matrix, update it so that if any cell is true, all the cells in 
 Implement a binary tree with a method getRandomNode() that returns a random node.
 
 * [Two Missing Numbers](http://www.byte-by-byte.com/twomissingnumbers/)
+([C++](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/cpp/TwoMissingNumbers.cpp))
 ([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/TwoMissingNumbers.java))
 ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/TwoMissingNumbers.py))<br>
 Given an array containing all the numbers from 1 to n except two, find the two missing numbers.

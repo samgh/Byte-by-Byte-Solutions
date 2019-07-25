@@ -4,6 +4,7 @@
 *   function that finds all the duplicates in the array.
 *
 *   Execution: python FindDuplicates.py
+*   Execution: g++ Findduplicates.cpp -o Findduplicates
 * 
 *   For more details, check out http://www.byte-by-byte.com/findduplicates/
 * 
