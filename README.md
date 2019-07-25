@@ -23,6 +23,7 @@ Given a list of items with values and weights, as well as a max weight, find the
 Given a matrix, find the path from top left to bottom right with the greatest product by moving only down and right.
 
 * [Find Duplicates](http://www.byte-by-byte.com/findduplicates/)
+([C++](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/cpp/FindDuplicates.cpp))
 ([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/FindDuplicates.java))
 ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/FindDuplicates.py))<br>
 Given an array of integers where each value `1 <= x <= len(array)`, write a function that finds all the duplicates in the array.
