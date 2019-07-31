@@ -102,7 +102,9 @@ Given a string and a dictionary HashSet, write a function to determine the minim
 ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/Sum.py))<br>
 Given two integers, write a function to sum the numbers without using any arithmetic operators.
 
-* [Reverse Stack](http://www.byte-by-byte.com/reversestack/)  
+* [Reverse Stack](http://www.byte-by-byte.com/reversestack/)
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/ReverseStack.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/ReverseStack.py))<br>
 Given a stack, reverse the items without creating any additional data structures.
 
 * [Swap Variables](http://www.byte-by-byte.com/swapvariables/)
