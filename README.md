@@ -153,7 +153,10 @@ Implement a LIFO stack with basic functionality (push and pop) using FIFO queues
 * [Balanced Binary Tree](http://www.byte-by-byte.com/balancedtree/)  
 Given a binary tree, write a function to determine whether the tree is balanced.
 
-* [Gray Code](http://www.byte-by-byte.com/graycode/)  
+* [Gray Code](http://www.byte-by-byte.com/graycode/)
+([C++](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/cpp/GrayCode.cpp))
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/GrayCode.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/GrayCode.py))<br>
 Given two integers, write a function to determine whether or not their binary representations differ by a single bit.
 
 * [Merge Arrays](http://www.byte-by-byte.com/mergearrays/)  
