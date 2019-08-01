@@ -141,7 +141,10 @@ Given a tree, write a function to find the length of the longest branch of nodes
 * [Sort Stacks](http://www.byte-by-byte.com/sortstacks/)  
 Given a stack, sort the elements in the stack using one additional stack.
 
-* [Print Reversed List](http://www.byte-by-byte.com/printreversedlist/)  
+* [Print Reversed List](http://www.byte-by-byte.com/printreversedlist/)
+([C++](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/cpp/PrintReversedList.cpp))
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/PrintReversedList.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/PrintReversedList.py))<br>
 Given a linked list, write a function that prints the nodes of the list in reverse order.
 
 * [Longest Common Substring](http://www.byte-by-byte.com/longestsubstring/)  
