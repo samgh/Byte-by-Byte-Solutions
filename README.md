@@ -171,7 +171,9 @@ Given an array, write a function to find any subarray that sums to zero, if one 
 * [Three Sum](http://www.byte-by-byte.com/threesum/)  
 Given a list of integers, write a function that returns all sets of 3 numbers in the list, `a`, `b`, and `c`, so that `a + b + c == 0`.
 
-* [Rotate Bits](http://www.byte-by-byte.com/rotatebits/)  
+* [Rotate Bits](http://www.byte-by-byte.com/rotatebits/)
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/RotateBits.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/RotateBits.py))<br>
 Given a number, write a function to rotate the bits (ie circular shift).
 
 * [Palindromes](http://www.byte-by-byte.com/palindromes/)  
