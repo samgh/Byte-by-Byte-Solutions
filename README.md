@@ -194,7 +194,9 @@ Given a linked list, write a function to split the list into two equal halves.
 * [Kth Most Frequest String](http://www.byte-by-byte.com/kthmostfrequentstring/)  
 Given a list of strings, write a function to get the kth most frequently occurring string.
 
-* [String Compression](http://www.byte-by-byte.com/stringcompression/)  
+* [String Compression](http://www.byte-by-byte.com/stringcompression/)
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/StringCompression.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/StringCompression.py))<br>
 Given a string, write a function to compress it by shortening every sequence of the same character to that character followed by the number of repetitions. If the compressed string is longer than the original, you should return the original string.
 
 * [Anagrams](http://www.byte-by-byte.com/anagrams/)
