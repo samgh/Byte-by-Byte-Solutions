@@ -132,7 +132,9 @@ Given an integer n, write a function to compute the nth Fibonacci number.
 * [Tree to Doubly Linked List](http://www.byte-by-byte.com/treetolist/)  
 Given a tree, write a function to convert it into a circular doubly linked list from left to right by only modifying the existing pointers.
 
-* [Line Intersection](http://www.byte-by-byte.com/lineintersection/)  
+* [Line Intersection](http://www.byte-by-byte.com/lineintersection/)
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/LineIntersection.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/LineIntersection.py))<br>
 Given two lines on a Cartesian plane, write a function to determine whether or not the lines intersect.
 
 * [Longest Consecutive Branch](http://www.byte-by-byte.com/longestbranch/)  
