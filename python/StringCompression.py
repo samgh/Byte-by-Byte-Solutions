@@ -34,7 +34,8 @@ def string_compress(input_str):
     if len(cstring) < len(input_str):
         return cstring
     else:
-        return input_str 
+        return input_str
+
 
 class TestStringCompress(unittest.TestCase):
     def test_1(self):
@@ -48,6 +49,7 @@ class TestStringCompress(unittest.TestCase):
 
     def test_4(self):
         self.assertEqual(string_compress("aaabccc"), "a3b1c3")
+
 
 if __name__ == '__main__':
     unittest.main()
