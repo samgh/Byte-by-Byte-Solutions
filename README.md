@@ -209,7 +209,9 @@ Given two strings, write a function to determine whether they are anagrams.
 * [Binary Search Tree Verification](http://www.byte-by-byte.com/binarysearchtree/)  
 Given a binary tree, write a function to test if the tree is a binary search tree.
 
-* [Max Stack](http://www.byte-by-byte.com/maxstack/)  
+* [Max Stack](http://www.byte-by-byte.com/maxstack/)
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/MaxStack.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/MaxStack.py))<br>
 Implement a LIFO stack that has a `push()`, `pop()`, and `max()` function, where `max()` returns the maximum value in the stack. All of these functions should run in `O(1)` time.
 
 * [Number of Ones in Binary](http://www.byte-by-byte.com/onesinbinary/)
