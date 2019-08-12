@@ -187,7 +187,9 @@ Write a function that returns all permutations of a given list.
 * [N Stacks](http://www.byte-by-byte.com/nstacks/)
 Implement N > 0 stacks using a single array to store all stack data (you may use auxiliary arrays in your stack object, but all of the objects in all of the stacks must be in the same array). No stack should be full unless the entire array is full.
 
-* [Tree Level Order](http://www.byte-by-byte.com/treelevelorder/)  
+* [Tree Level Order](http://www.byte-by-byte.com/treelevelorder/)
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/TreeLevelOrder.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/TreeLevelOrder.py))<br>
 Given a tree, write a function that prints out the nodes of the tree in level order.
 
 * [Split Linked List](http://www.byte-by-byte.com/splitlinkedlist/)  
