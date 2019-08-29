@@ -1,6 +1,5 @@
 /*
  * Title: Integer to Roman Numerals
- * Author: Sam Gavis-Hughson
  * Date: 29/08/2019
  * 
  * Write a function to convert an integer into its roman numeral representation
