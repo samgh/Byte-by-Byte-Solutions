@@ -32,6 +32,7 @@ Given an array of integers where each value `1 <= x <= len(array)`, write a func
 ([C++](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/cpp/IntToRoman.cpp))
 ([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/IntToRoman.java))
 ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/pythopython/IntToRoman.py))<br>
+([Php](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/php/IntToRoman.php))<br>
 Given an integer, write a function to return its roman numeral representation.
 
 * [Autocomplete](http://www.byte-by-byte.com/autocomplete/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/Autocomplete.java))  
