@@ -10,8 +10,9 @@
  * For more details, check out http://www.byte-by-byte.com/listcycles/
  */
 
+#include <iostream>
+#include <set>
 
-#include <bits/stdc++.h>
 using namespace std;
 
 struct node
